@@ -5,7 +5,6 @@
 		"gold": 1,
 		"uniques": [
 			"Turn this tile into a [Coast] tile",
-			"Remove [Canal] improvements from this tile",
 			"Unpillagable",
 			"Cannot be built on [Hill] tiles","Can only be built on [Coastal] tiles",
 			"Cannot be built on [Land] tiles <with [3] to [6] neighboring [Canal] tiles>",
@@ -23,7 +22,6 @@
 		"gold": 2,
 		"uniques": [
 			"Turn this tile into a [Coast] tile",
-			"Remove [Canal] improvements from this tile",
 			"Unpillagable",
 			"Can only be built on [Coastal] tiles",
 			"Cannot be built on [Land] tiles <with [3] to [6] neighboring [Canal] tiles>",
@@ -41,7 +39,6 @@
 		"gold": 3,
 		"uniques": [
 			"Turn this tile into a [Coast] tile",
-			"Remove [Canal] improvements from this tile",
 			"Turn this tile into a [Suez Canal] tile",
 			"Unpillagable",
 			"Can only be built on [Coastal] tiles",
@@ -61,7 +58,6 @@
 		"gold": 2,
 		"uniques": [
 			"Removes removable features when built",
-			"Remove [Canal] improvements from this tile",
 			"Turn this tile into a [Coast] tile",
 			"Unpillagable",
 			"Can only be built on [Coastal] tiles",
@@ -81,7 +77,6 @@
 		"happiness": 1,
 		"uniques": [
 			"Turn this tile into a [Coast] tile",
-			"Remove [Canal] improvements from this tile",
 			"Can only be built on [Coastal] tiles",
 			"Unpillagable",
 			"Cannot be built on [Land] tiles <with [3] to [6] neighboring [Canal] tiles>",
