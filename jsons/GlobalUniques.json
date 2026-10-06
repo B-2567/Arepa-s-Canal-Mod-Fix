@@ -1,7 +1,6 @@
 {
   "name": "Global Uniques",
   "uniques": [
-    "[-2] Movement <when [Water]> <in [Dirt Canal] tiles>",
-    "[-1] Movement <when [Water]> <in [Canal] tiles>"
+    "[-2] Movement <when [Water]> <in [Dirt Canal] tiles>","[-1] Movement <when [Water]> <in [Canal] tiles>"
   ]
 }
